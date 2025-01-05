@@ -11,7 +11,7 @@
 - [Contact](#contact)
 
 ## Introduction
-A simple Flutter project that provides a question and answer interface in the form of a quiz and shows the result at the end.
+A simple Flutter project that provides a question and answer interface in the form of a quiz and shows the result at the end. Project was made as a part of course while learning.
 
 ## Features
 - **Enter question and answers:** Questions and answers need to be added in the code itself. While entering the options, the answer option needs to be the first option always as it has been coded to take the first option as the answer. Although before displaying the options to the user, the options are shuffled and thus the quiz is fair.

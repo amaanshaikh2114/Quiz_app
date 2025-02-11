@@ -50,10 +50,27 @@ A simple Flutter project that provides a question and answer interface in the fo
 
 ## Screenshots
 <p align="center">
-  <img src="screenshots/start_page.png" alt="Start page" width="300"/>
-  <img src="screenshots/questions_page.png" alt="Adding new task" width="300"/>
-  <img src="screenshots/result_page1.png" alt="High priority sorting" width="300"/>
-  <img src="screenshots/result_page2.png" alt="High priority sorting" width="300"/>
+<p align="center" style="margin: 20px;">
+  <figure>
+    <figcaption align="center">Start page</figcaption>
+    <img src="screenshots/start_page.png" alt="Start page" width="300" style="padding-top: 10px;"/>
+  </figure>
+  
+  <figure>
+    <figcaption align="center">Questions Page</figcaption>
+    <img src="screenshots/questions_page.png" alt="Questions Page" width="300" style="padding-top: 10px;"/>
+  </figure>
+
+  <figure>
+    <figcaption align="center">Results Page 1</figcaption>
+    <img src="screenshots/result_page1.png" alt="Results Page 1" width="300" style="padding-top: 10px;"/>
+  </figure>
+
+  <figure>
+    <figcaption align="center">Results Page 2</figcaption>
+    <img src="screenshots/result_page2.png" alt="Results Page 2" width="300" style="padding-top: 10px;"/>
+  </figure>
+</p>
 </p>
 
 ## Credits
